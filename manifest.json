@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "QC Time",
+  "version": "1.1",
+  "description": "Affiche l'heure du Québec.",
+  "browser_action": {
+    "default_popup": "time.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "32": "icon.png"
+  }
+}
